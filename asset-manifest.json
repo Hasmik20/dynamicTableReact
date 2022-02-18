@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/http//Hasmik20.github.io/dynamicTableReact/static/css/main.deb11b35.css",
+    "main.js": "/http//Hasmik20.github.io/dynamicTableReact/static/js/main.eeb02d1d.js",
+    "static/js/787.229e1dc0.chunk.js": "/http//Hasmik20.github.io/dynamicTableReact/static/js/787.229e1dc0.chunk.js",
+    "index.html": "/http//Hasmik20.github.io/dynamicTableReact/index.html",
+    "main.deb11b35.css.map": "/http//Hasmik20.github.io/dynamicTableReact/static/css/main.deb11b35.css.map",
+    "main.eeb02d1d.js.map": "/http//Hasmik20.github.io/dynamicTableReact/static/js/main.eeb02d1d.js.map",
+    "787.229e1dc0.chunk.js.map": "/http//Hasmik20.github.io/dynamicTableReact/static/js/787.229e1dc0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.deb11b35.css",
+    "static/js/main.eeb02d1d.js"
+  ]
+}
